@@ -1,0 +1,12 @@
+               git hub 
+ 
+
+ commands 
+   
+ 1.sudo -i
+2.yum install git -y (to install git yum is to allow permission - is the permission to services)
+3.git init .
+4.touch aws azure gcp
+5.git commit -m"aws
+               ----------
+now upload the GITHUB. THIS OUR ULTMITE aim
